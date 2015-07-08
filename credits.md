@@ -1,0 +1,1 @@
+photo credit: <a href="http://www.flickr.com/photos/33314439@N05/6777665696">Historic Log Books</a> via <a href="http://photopin.com">photopin</a> <a href="https://creativecommons.org/licenses/by-nd/2.0/">(license)</a>
