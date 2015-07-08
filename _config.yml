@@ -3,11 +3,11 @@ title: Peer Review
 header-img: img/home-bg2.jpg
 email: your-email@yourdomain.com
 description: "The website for our efforts to improve the future of peer review."
-baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+baseurl: "http://peer-review.github.io"
+url: "http://peer-review.github.io"
+twitter_username: holder
+github_username:  peer-review
+facebook_username:  holder
 
 # Build settings
 markdown: kramdown
