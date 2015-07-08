@@ -1,0 +1,25 @@
+# Site settings
+title: Peer Review 
+header-img: img/home-bg2.jpg
+email: your-email@yourdomain.com
+description: "The website for our efforts to improve the future of peer review."
+<<<<<<< HEAD
+baseurl: "http://peer-review.github.io"
+url: "http://peer-review.github.io"
+twitter_username: holder
+github_username:  peer-review
+facebook_username:  holder
+=======
+baseurl: ""
+url: "http://peer-review.github.io"
+twitter_username: Holder
+github_username:  peer-review
+facebook_username:  Holder
+>>>>>>> 797f54b855bf0633a60b4da7bf096dc9da9dce63
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
