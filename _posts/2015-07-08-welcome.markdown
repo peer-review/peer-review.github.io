@@ -1,9 +1,13 @@
 ---
 layout: post
-title: "Welcome"
+title: "Please contribute to better peer review!"
 date: 2015-07-08T08:54:54-05:00
 author: "Adina"
 ---
+Nobody loves surveys, but this one is short and might even help you and your science. 
 
-Welcome to our landing page!  Please consider filling out our survey for peer review improvement.
+Peer review is a principle foundation of reliable science.  The aim of this survey is to guide quality and useful peer review into the future.   We are asking you as authors, reviewers, and editors to help inform the characteristics of quality peer reviews.  This survey should take less than 20 minutes and will provide critical feedback from representatives of the scientific community.  
+
+[Survey Link](https://iastate.qualtrics.com/CP/Report.php?RP=RP_6iioXvLq5PGHMXz)
+
 
