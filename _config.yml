@@ -5,9 +5,9 @@ email: your-email@yourdomain.com
 description: "The website for our efforts to improve the future of peer review."
 baseurl: ""
 url: "http://peer-review.github.io"
-twitter_username: Holder
+twitter_username: 
 github_username:  peer-review
-facebook_username:  Holder
+facebook_username:  peerreviewdiscussion
 
 # Build settings
 markdown: kramdown
